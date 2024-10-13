@@ -20,24 +20,23 @@ STEP 5: Remove outliers using IQR
 
 STEP 6: Use zscore of to remove outliers
 
-# Coding and Output
-![Experiment1(1)](https://github.com/user-attachments/assets/4864c177-243e-4699-bcac-c0828d5f8ca5)
-![Experiment1(2)](https://github.com/user-attachments/assets/f382eec9-1095-4b04-85bb-7185123066d4)
-![Experiment1(3)](https://github.com/user-attachments/assets/51a01aca-5711-45da-8356-a247b1958b3a)
-![Experiment1(4)](https://github.com/user-attachments/assets/87353f16-8998-4dae-aeac-ff71f96c6a1a)
-![Experiment1(5)](https://github.com/user-attachments/assets/688bc4f7-1e24-40d9-b94e-bfd0d8abce25)
-![Experiment1(6)](https://github.com/user-attachments/assets/405d22a0-e80b-45b7-b0be-826b31f9fa73)
-![Experiment1(7)](https://github.com/user-attachments/assets/01857fac-73d8-4dfd-9665-b929d59819c6)
-![Experiment1(8)](https://github.com/user-attachments/assets/da1cd4b5-ab6f-49ec-b61b-1ad7223bd9fe)
-![Experiment1(9)](https://github.com/user-attachments/assets/cdf8f97a-1a44-48b6-87bf-97922be9dab6)
-![Experiment1(10)](https://githu
-![Experiment1(11)](https://github.com/user-attachments/assets/8cb9f263-5791-4af8-9349-93707930a6e2)
-b.com/user-attachments/assets
-![Experiment1(12)](https://github.com/user-att
-![Experiment1(13)](https://github.com/user-attachments
-![Experiment1(14)](https://github.com/user-attachments/assets/9c57ec71-347d-4856-9451-8c65d92cfaae)
-/assets/255c6787-2e41-4e6a-8edc-3d0540374cbb)
-achments/assets/639dcefe-c1c0-459f-9d91-8beb14343c84)
-/e78b6a7d-3f93-46b6-a853-7ba56568c2e8)       
+# Coding and Output![Experiment1(1)](https://github.com/user-attachments/assets/1ffd12a4-ed68-463d-a1fc-0ac06a7e83bd)
+![Experiment1(2)](https://github.com/user-attachments/assets/e57f7116-96ab-4d9f-992e-6769ff6445be)
+![Experiment1(3)](https://github.com/user-attachments/assets/a463e01e-860a-4470-92f5-4f0c5095481b)
+![Experiment1(4)](https://github.com/user-attachments/assets/0d4ba54e-7bb3-4198-8536-74d4924eb047)
+![Experiment1(5)](https://github.com/user-attachments/assets/f90c00ab-7d8c-4c53-a7f3-522681b48a84)
+![Experiment1(6)](https://github.com/user-attachments/assets/f4387b33-b564-40a6-8914-945ac6484e36)
+![Experiment1(7)](https://github.com/user-attachments/assets/10ea00c3-1a96-4143-880b-049e03d9a895)
+![Experiment1(8)](https://github.com/user-attachments/assets/c0f6dee3-dcbd-4efa-ac49-8ccef568e3df)
+![Experiment1(9)](https://github.com/user-attachments/assets/429f6004-ad90-434e-8ae0-d8bd8e344612)
+![Experiment1(10)](https://github.com/user-attachments/assets/703ab42f-3cb2-4995-bf02-534522920a56)
+![Experiment1(11)](https://github.com/user-attachments/assets/70720197-482b-4785-b4c5-9a578524289b)
+![Experiment1(12)](https://github.com/user-attachments/assets/662d27a2-8f9b-4034-8358-bbb74d243a48)
+![Experiment1(13)](https://github.com/user-attachments/assets/4a31edd6-db95-40a9-b1af-100e40b50fbc)
+![Experiment1(14)](https://github.com/user-attachments/assets/7a12642e-9707-4b56-8950-0c48ab3be3e3)
+
+
 # Result
+
+
           <<include your Result here>>
